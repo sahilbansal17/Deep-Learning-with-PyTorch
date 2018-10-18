@@ -1,0 +1,9 @@
+title: Deep Learning Introduction
+description: >
+  Notes for the Deep Learning course on Udacity
+baseurl: /Deep-Learning-Introduction # to fix the issue that CSS files linked have relative path
+url: http://sahilbansal17.github.io/Deep-Learning-Introduction
+theme: minima
+# plugins: [jekyll_github_sample]
+markdown:   kramdown
+author: sahilbansal17
