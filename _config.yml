@@ -1,7 +1,7 @@
 title: Deep Learning Introduction
 description: >
   Notes for the Deep Learning course on Udacity
-baseurl: /Deep-Learning-Introduction # to fix the issue that CSS files linked have relative path
+baseurl: /Deep-Learning-with-PyTorch/ # to fix the issue that CSS files linked have relative path
 url: http://sahilbansal17.github.io/Deep-Learning-with-PyTorch/
 theme: minima
 # plugins: [jekyll_github_sample]
